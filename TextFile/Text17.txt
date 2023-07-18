@@ -1,0 +1,101 @@
+Sport meets science: Advancing athletics through tech
+The role of tech to aid deaf sportsmen on track and field was something that came to Dr Jaysuman Pusppanathan’s attention a few years ago.
+
+Jaysuman, the deputy director of the Sports Innovation and Technology Centre (SiTC) at the Institute of Human Centered Engineering at Universiti Teknologi Malaysia in Johor, was made aware of how deaf athletes would often stumble at the starting line because they could not hear the starter gun.
+
+“Back in 2017, we were introduced to the Malaysia Deaf Sports Association (MSDEAF) and the organisation wanted to know if we could help it find some solutions to problems that their athletes were facing,” he said, adding that these deaf athletes had to rely on systems that were not working for them for 20 years since MSDEAF was established in 1993.
+Jaysuman said that track and field events, such as the 100m sprint, for example, used starter guns to mark the start of the race.
+
+“They told me, ‘We can’t hear, so how can we rely on the pistol?’ That’s when I figured that we needed to work on a solution for them,” said Jaysuman, who is also a senior lecturer at the School of Biomedical Engineering and Health Sciences in the UTM’s Faculty of Engineering.
+
+He joined SiTC, a research centre focused on developing technological solutions for the field of sports, in 2017 as an associate research fellow.
+
+On your marks
+Deaf athletes are able to rely on their other senses, and Jaysuman decided that a visual aid may work for them.
+
+However, MSDEAF shared with Jaysuman that in some cases, when the manual flag-off method replaced the starting gun, other issues cropped up.
+
+“The referee would wave the flag in different movements to indicate when to get into position at the starting block, when to get ready to sprint, and then finally go. But the issue was that the flag was not connected to the electronic time system or the finish-line camera,” Jaysuman said.
+In sprinting events, the sound of the starter gun indicates the start of the race as well as triggers the electronic timing system, which synchronises with the finish-line camera to accurately capture the athletes as they finish each race, or what is commonly referred to as a photo finish.
+
+“When it was not synchronised, they basically had to make estimations and were unable to have accurate records of the athletes’ times, which is crucial in order to gauge their performance,” he said.
+Jaysuman came up with the concept for a visual signal device (VSD), which uses lights as an indicator for deaf athletes to start running.
+
+“It’s not as simple because that is just one aspect of the device. If we’re going to replace the pistol or manual flag-off with a visual aid, how would we then synchronise it with the electronic timing system and finish-line camera?
+
+“We had to consider how to make the visual aid work with the existing system that was in place to capture the results,” he said.
+
+Jaysuman said SiTC formed a collaboration with Innotex System Corp, a company that specialises in sports timing systems, to work on the VSD to help researchers figure out how to synchronise the visuals on the device with the electronic timing system and finish-line camera.
+
+He explained that the device could be controlled by a remote button connected to the starter gun.
+
+When the gun goes off, a panel on the device lights up, indicating that the photo-finish system has been triggered, including the electronic timing system and finish-line camera.
+When Jaysuman and his team developed the first prototype, they created a device with a single panel LED that would change from red (on your marks) to orange (get set) to green (go).
+
+“When we asked the athletes and coaches to test the device, we found out that some of the athletes were colour blind, an aspect we hadn’t considered before!
+
+“Secondly, the colours for red and orange looked similar to each other, especially under the hot sun. The athletes also shared that the light intensity was so bright that it affected their concentration,” he said.
+
+The solution was to rely on a three-light panel device that would light up sequentially.
+“The athletes said a three-light panel device was better for them because the single panel was confusing and they felt stressed having to anticipate the colour changes.
+
+“With three separate panels, they were more prepared for the changes to take place,” he said.
+
+To deal with the colour blindness issue, Jaysuman said the colour orange was replaced with blue, with the sequence now: blue, red, then green.
+
+“Based on studies, we found that these colours would be more suitable as they were not too similar to one another,” he said.
+
+The placement of the device was also crucial. Jaysuman considered how the athletes had to look up to the referee when the manual flag-off was used.
+
+“They are supposed to look down to help them focus. This also helps them to check their position and adjust their stance before taking off.
+
+“But if they have to look up, then it will throw them off position or the biomechanics of taking off,” he said.
+He then decided the athletes should have a visual device system designed as a box to be placed on each lane at the starting line. The athletes would then be able to look down on the box and maintain their stance.
+
+Get set
+
+The VSD system for deaf track and field athletes made its debut at the Malaysia Deaf Games (SOPMA XX) in Perak in 2018.
+
+Jaysuman said that an upgraded version of the system was later officially used at SOPMA XXI 2022 in Kuala Lumpur, as well as at the inaugural Asean Deaf Games in KL in November last year.
+
+Prior to using the device at official events, Jaysuman said that athletes and coaches were invited to try it out.
+He was moved when some of them told him that this system is now going to improve how deaf athletes compete professionally.
+
+“Among the feedback we got from them was, ‘Thank you for bringing this to Malaysia’. I thought I was just doing my job, but I see how technology can be used to improve their quality of life,” Jaysuman said, adding that research and development are now being done to apply the system to other sports such as swimming.
+
+And go!
+
+Technology is also being harnessed to help athletes improve their training.
+
+In April, the University of Florida in the United States fitted table tennis athletes with electrocardiogram (ECG) caps to measure their brain activity when facing humans or robots, specifically ball-serving machines.
+
+Researchers found that players reacted differently, with their brains working harder against ball-serving machines than humans as they couldn’t predict their serves.
+
+When going against humans, they relied on obvious cues, making them more confident about their next move.
+“Humans interacting with robots is going to be different than when they interact with other humans.
+
+“Our long-term goal is to try to understand how the brain reacts to these differences,” said Daniel Ferris, a professor of biomedical engineering at the University of Florida, in a report.
+
+The researchers concluded that human opponents provide a sense of realism that machine helpers can’t, which is an important consideration when building such training robots.
+
+Jaysuman shared that artificial intelligence (AI) is an exciting new area for SiTC, as it can be used to gather data and study athletes’ behaviour and performance.
+
+He said AI is now being used to develop the talent of badminton athletes by gathering data that will help coaches and trainers estimate the athletes’ fitness level and come up with appropriate training plans.
+“Computers with image processing capabilities are being used to calculate the number of steps that badminton players take on the court.
+
+“It’s impossible to do so with human vision, but with computers, we can measure their movements,” he said.
+
+Another technology that is being explored is VR (virtual reality), which can help athletes overcome psychological issues like anxiety on competition day.
+
+“They don’t expect the sound of the crowd to affect them on competition day, but they may start to feel stressed due to the pressure of delivering results. With VR, we can recreate the environment for them to train in and learn to get used to it,” he said.
+
+Finishing line
+
+Jaysuman hoped that the VSD system could be adopted by schools so that deaf students would not be held back and instead be encouraged to excel in sports at an early age.
+“However, it may not be feasible for some schools because the cost to integrate the system would be between RM10,000 and RM20,000.
+
+“We’re looking at making the system portable for training use so schools can start using the system,” he said.
+
+When it comes to increasing the adoption of sports technology in Malaysia, the financial aspect will always be a challenge, but it shouldn’t be an excuse, he added.
+
+“My hope for sports technology in Malaysia is that we find more ways to bring its benefits to more people. But I’m also wary that the complications of technology can become a burden for the people it was made for,” he said.

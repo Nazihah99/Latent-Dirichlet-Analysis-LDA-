@@ -1,0 +1,59 @@
+With AI emerging as both friend and foe, how should Malaysia regulate the technology?
+KUALA LUMPUR, April 28 — As Artificial Intelligence (AI) becomes ever more ubiquitous in our everyday life, governments have had to scramble to work out how to regulate the technology.
+
+With global powerhouses such as the United States and the European Union yet to implement comprehensive laws on AI, can Malaysia proactively take the steps it needs to keep the technology within the bounds of safety, ethics and fair competition?
+Malay Mail spoke to two researchers and a lawyer proficient in cybersecurity laws to explore potential steps that can be taken locally.
+
+Should AI be regulated?
+In 2018, an autonomous vehicle being tested by Uber in the US state of Arizona failed to detect the presence of a pedestrian and crashed into her, causing her death.
+That same year, Amazon tested an AI-powered recruitment tool that was found to be biased against female job applicants, after which the company abandoned the project.
+
+More recently, deepfakes — which use AI to manipulate or create realistic yet fabricated images, videos, or audio recordings — are being used in scams, identity theft, or for spreading misinformation.
+
+Lawyer and member of the Malaysian Communication and Multimedia Commission (MCMC), Derek John Fernandez, told Malay Mail that while it is common for regulations to lag behind technological advancements, the potential risks associated with AI require immediate consideration.
+
+“As AI evolves and is able to develop self-awareness, then there is a real danger — which once was the topic of science fiction — of machines taking over humanity.
+
+“We are not there yet but it is possible if controls are not discussed early.
+
+“There is no doubt the government will have to regulate AI, in the name of public safety, security or even the protection of intellectual property rights, as well as its impact on employment and jobs,” he said.
+
+Does Malaysia currently have any mechanisms to govern AI?
+
+Senior analyst at the Institute of Strategic and International Studies Farlina Said said that although there isn't a specific set of laws for regulating AI in Malaysia, existing policies such as the Personal Data Protection Act (PDPA) 2010 can be used as a foundation.
+
+“The PDPA includes principles of data protection, like disclosure, security, retention, and data integrity, which can be used as a basis to guide the responsible management of data in relation to the development of AI.
+
+“Additionally, there are other regulations that apply to the use or misuse of technology, such as the Communications and Multimedia Act 1998, Sedition Act 1948, Defamation Act 1957, Penal Code, Child Act 2001, Child (Amendment) Act 2016, and Sexual Offences against Children Act 2017.
+
+“There are also copyright laws to protect the intellectual property of software, and consumer protection laws like the Consumer Protection Act 1999 and the Consumer Protection (Electronic Trade Transactions) Regulations 2012 that can safeguard consumers' rights in the context of AI technology,” she said.
+
+Aside from existing laws, the Ministry of Science, Technology & Innovation (Mosti) launched the Malaysia AI Roadmap (AI-Rmap) in 2021, with the aim of overseeing and managing the development and deployment of AI technologies in Malaysia.
+
+However, Farlina said that although progress has been made, it is unclear how far the roadmap has progressed in terms of setting guidelines, standards, and policies.
+So where should regulations start?
+
+Jun-E Tan, senior research associate at Khazanah Research Institute, said that to start, an effective regulatory framework for AI should first define the different types of AI — while also being flexible enough to accommodate emerging technologies as they evolve.
+
+“It should also consider different types of harm that AI can cause, ranging from harm to individuals to harm to society, which includes impact to societal progress towards ideals such as non-discrimination and gender equality,” said Tan.
+
+Tan also suggested establishing clear boundaries, or “red lines”, on what AI technologies should not be used for.
+
+“These might include social credit scoring, facial recognition technologies in public spaces, and automated decision-making with consequential impact such as hiring and allocation for public housing and social protection,” she said.
+Tan also proposed the implementation of a registry to document and monitor AI technologies in use, as well as conducting AI impact assessments and regular reporting at sites where AI is being researched or applied.
+
+“These impact assessments would be to ensure that the development and application of AI technologies are thoroughly evaluated for their impact on individuals and societies.
+
+“Mandated reporting by companies would also require them to disclose risks and benefits of their technologies and track and publish downstream effects as outlined in the regulatory framework,” she said.
+
+When asked who should be involved in the development and implementation of an AI regulatory framework, Farlina said that the Ministry of Communications and Digital, National Cyber Security Agency, and Mosti should play leading roles.
+
+“In addition, there needs to be sufficient input and feedback from industry players as well as non-governmental organisations.
+
+“Different sectors could have different outcomes; thus, building a holistic framework requires players from different sectors as well. For example, those in critical infrastructure,” she said.
+
+Critical infrastructure encompasses sectors that are essential for the operation of a country, which includes energy, transportation, communications, healthcare, and emergency services.
+
+Considering the myriad of factors that need to be studied and the long road ahead before passing comprehensive laws on AI, Derek said that the discussions on the matter must start “now”.
+
+“The future of AI is unknown, and yet, we have to prepare for the unknown,” he said.

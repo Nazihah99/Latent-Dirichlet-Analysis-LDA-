@@ -1,0 +1,110 @@
+Digital economy programmes in Malaysia over the years
+WITH the creation of the Multimedia Super Corridor (MSC) in 1996, Malaysia began its road towards digitalisation. The programme itself has brought about a mixed bag of results. On the bright side, it lured domestic and international ICT corporations to set up shop in particular economic zones. 
+The future holds a lot of promise for the digitalisation activities currently underway. ICT-related activities have garnered an estimated RM289 billion, or 19.1%, of the country’s GDP in 2019. The Covid-19 epidemic has hastened the development of the digital economy and encouraged the populace, established companies and the government to move their daily operations online. 
+In Malaysia, the implementation of strategic policies for the transition to a digital economy has gone through two significant phases. Phase 1 comprises the MSC and IT development (1996-2010), while Phase 2 (2016-2021) encompasses the Industrial Revolution 4.0 (IR4.0) and the digital economy. 
+
+Phase 1 was part of the Seventh Malaysia Plan (7MP), the nation’s five-year strategy from 1996 to 2000. This was a period that marked the beginning of the nation’s focus on the digitalisation of the economy. IT was noted in the plan as a significant economic growth driver that had the potential to enhance population well-being. 
+
+Making Malaysia a centre for multimedia and IT became one of the top priorities in the 7MP. The MSC was one of the major features in the plan. The Kuala Lumpur Special Economic Zone (MSC) is a 15km by 40km region that includes the city of Kuala Lumpur (KL), the Kuala Lumpur International Airport (KLIA) and Putrajaya (the new administrative capital). Within MSC, “cyber cities” like Cyberjaya — the nation’s new Silicon Valley — were subsequently built. 
+
+The Phase 2 of the digital economy and IR4.0 (2016–2021) started in 2016. During the period between 2011 and 2015, there was relative neglect towards policy interest in the digital economy, and a number of strategies and initiatives were unveiled to emphasise the growth of the digital economy. 
+
+These include (i) the National Internet of Things (IoT) Strategic Roadmap from 2015; (ii) the National e-Commerce Strategic Roadmap from 2016; (iii) the National Policy on IR4.0 from 2018; (iv) the National IR4.0 Policy from 2021; and (v) the Malaysia Digital Economy Blueprint (MyDigital) from 2021. 
+National IoT Strategic Roadmap (2015)
+
+The National IoT Strategic Roadmap (NIoTSR) is a pioneering strategy that is related to the IR4.0 and digital economy introduced by the Ministry of Science, Technology and Innovation (Mosti) in 2015. The national research and development (R&D) centre, Mimos Bhd, was selected as the implementation secretariat. 
+The roadmap’s goal is to establish Malaysia as the leading regional centre for IoT development. Its objectives include (i) developing a supportive ecosystem for the IoT industry; (ii) enhancing technopreneur capabilities at the applications and services layer; and (iii) elevating Malaysia to the position of a regional IoT development centre. Its implementation was started with the aid of several experimental programmes. Projects in healthcare, waste management, agriculture and aquaculture are among them. 
+
+National e-Commerce Strategic Roadmap (2016)
+
+In 2016, the National e-Commerce Strategic Roadmap (NeSR) was introduced to advise various ministries, departments and organisations on the priorities and steps that should be done to advance the development of e-commerce. 
+
+National Policy on IR4.0 (2018)
+
+The National Policy on IR4.0 (Industr y4WRD) was introduced in 2018 with the intention of leveraging the innovations brought about by the IR4.0 to boost the manufacturing industry’s competitiveness. 
+National Digital Network ( Jendela) (2020)
+
+The Jendela action plan, which is a component of the 12th Malaysia Plan (12MP) (2021-2025), was introduced by Prime Minister Tan Sri Muhyiddin Yassin on Aug 29, 2020. This RM21 billion strategy was developed to guide Malaysia towards greater digital connection by enhancing the effectiveness of 
+the national infrastructure and optimising spectrum usage. Some 60% of the RM21 billion allotted for Jendela would be paid for by business stakeholders, with 40% coming from Malaysian Communications and Multimedia Commission’s (MCMC) Universal Service Provision (USP) fund. 
+
+This strategy will pave the way for the deployment of thorough and excellent broadband service coverage and get the country ready for a smooth transition to 5G technology. Jendela will also be participating in the gradual deactivation of 3G networks through the end of 2021 in order to improve the capabilities of the 4G network. Jendela’s implementation was supposed to take place in two stages: Phase 1 (from 2020 to 2022) and Phase 2 (from 2022 to 2025). 
+
+The provision of this infrastructure places a priority on improving connectivity and providing users with top-notch communication services. Additionally, it aims to improve Malaysians’ quality of life while attaining economic stability in the transition to a digital economy, including putting the nation on track for 5G connection. 
+
+Overall, the implementation of Jendela aimed to transform Malaysia into a well-established, robust nation with a digitally-oriented society that is more competitive on a global scale.
+
+Education and productivity, business, government, service-based industries, community and society are some of the key focus areas. The accessibility of broadband service networks will facilitate online learning for both students and faculty at both school and university levels, improving both productivity and education. 
+Businesses, government and service-based industries will all be greatly impacted by the availability of broadband infrastructures. New business conventions that should be accepted by the populace include working from home, online businesses and company diversity. The broadband infrastructure has acted as a catalyst that benefits a number of parties. 
+
+The Jendela plan will offer gigabit-speed fixed broadband services and guarantee that all inhabited locations have access to 4G service. Users can sign up for broadband services through Jendela and utilise them whenever they want. 
+
+In a briefing in March, Communications and Digital Minister Fahmi Fadzil said the Jendela initiative implemented to obtain stable Internet network facilities recorded encouraging achievements in the fourth quarter of 2022 (4Q22). 
+
+“As of the 4Q, a total of 7.74 million premises were covered, with the availability of fibre optic connections exceeding the initial target of 7.5 million premises…4G coverage in populated areas was also expanded to 96.92%, surpassing the target of 96.9%. 
+
+“In addition, mobile broadband speed was at an average rate of 116.03 megabits per seconds (Mbps), exceeding the speed target of 35Mbps, which was targeted to be achieved by the end of 2022,” he said. 
+Creativity @ Schools Award (2020)
+
+The Creativity @ Schools programme sets the stage for students to develop an interest in and competency in the field of digital creative material. 
+Malaysia Digital Economy Corp Sdn Bhd (MDEC) launched the programme in 2020 with the goal of fostering student creativity and expertise in the realm of digital creative output. 
+
+The idea was to encourage and promote young Malaysians’ creative thinking, as well as to pique their interest in animation, visual effects and game design. It also aims to sow the seeds for future intellectual property (IP) generation. 
+
+The two primary programmes under Creativity @ Schools are Kre8tif! @ Schools and LEVEL UP @ Schools. 
+
+• LEVEL UP @ Schools: A campaign to raise awareness of and interest in the gaming industry. Introduced in 2016 to foster upcoming talent and promote university enrolment in game development industries. 
+
+• Kre8tif ! @ Schools: An animation programme to foster young Malaysians’ creativity. It was introduced in 2019 and promotes interest in animation while promoting enrolment in tertiary-level creative content courses. The goal of Creativity @ Schools is to facilitate student digital adoption, which is a key component of the three strategic framework pillars of MDEC: Digital jobs, digital businesses and digital investments. The agency continues to provide the groundwork for future leaders to prosper in the IR4.0, supporting the country’s efforts to fulfil the Malaysia 5.0 vision, which will result in shared prosperity for all, in order to realise its objective of enabling a people-first society. 
+MDEC is stepping up its efforts to provide skill-building opportunities, tools and resources, as well as financial aid to help enterprises within this industry prosper and be competitive industry leaders in order to further nurture and expand Malaysia’s digital creative content industry. 
+
+MyDigital (2021) 
+
+Malaysia Digital Economy Blueprint (MyDigital) is a national programme that represents the government’s goals of making Malaysia a high-income, digitally-driven country, and a regional leader in the digital economy. In order to provide complete and explicit guidelines and targets for the development of the digital economy, MyDigital was introduced in 2021. 
+
+The blueprint outlines the strategies and efforts to carry out its goals. The blueprint establishes the groundwork for accelerating digitalisation across Malaysia, including bridging the digital divide, and plots the trajectory of the digital economy’s contribution to Malaysia’s economy. 
+
+It is designed to complement national development policies such as the 12MP and Wawasan Kemakmuran Bersama 2030 (WKB 2030). The digital economy was identified as a key economic growth area (KEGA) in realising WKB 2030, with the aim of making Malaysia a country that develops sustainably with fair economic distribution and equitable, inclusive growth. 
+The Covid-19 epidemic has highlighted how crucial the digital economy is to maintaining the continuity of economic activity. Data is the commodity of the future, and the use of the Internet and technological advancements both contribute to its rapid expansion. 
+
+Nevertheless, if the reaction to digitalisation is poorly managed, nations run the risk of developing a digital divide. To improve well-being and maintain relevance and competitiveness, digitalisation needs to be embraced and the opportunities it presents need to be utilised. 
+
+Malaysia will be able to successfully convert into a digitally-driven, high-income country and a regional leader in the digital economy with the help of MyDigital. MyDigital strives to make digitalisation accessible to the rakyat so that they can improve their standard of living and quality of life. The goal of the blueprint is to promote inclusive, responsible and sustainable socioeconomic development while becoming a regional leader in the digital economy. 
+
+The blueprint’s policy goals are to: 
+
+Encourage industry participants to develop, apply and embrace cutting-edge business models for the digital economy. 
+Leverage the human capital that the digital economy needs to prosper. 
+Foster a cohesive environment that enables society to adopt the digital economy.
+The blueprint’s six pillars are as follows:
+
+Promote digital transformation in the public sector.
+Increase economic competitiveness by embracing digital technology.
+Create a supportive digital infrastructure.
+Develop skilled and agile digital talent.
+Establish a diverse digital society. Create a trustworthy, safe and morally-sound online environment. 
+DE Rantau (2022) 
+
+The recently unveiled DE Rantau is a plan that aims to make Malaysia the preferred hub for digital nomads in order to increase digital adoption and foster professional mobility and travel around Malaysia. 
+
+Both local artists and international nomads are to gain from the scheme. The idea is to develop a dynamic ecosystem that can support the digital nomad lifestyle in order to be able to regain the balance in working and living. This will be done in addition to the introduction of the DE Rantau Nomad Pass, which will support the facilitation of foreign digital nomads’ stay in Malaysia for 12 months. 
+
+The programme, supposed to be in line with Malaysia Digital, will strengthen Malaysia’s route to become the chosen hub for digital nomads in the Asean region. Despite stiff competition from its neighbours, Malaysia possesses all the necessary elements to be the most desirable location for digital nomads. 
+
+MDEC is leading the effort to establish digital nomad hubs and develop local ecosystems suitable for their lifestyle. This will be accomplished in conjunction with the onboarding of digital nomads through outreach and awareness activities, as well as the facilitation of visas for holders of the DE Rantau Nomad Pass. 
+
+Knowledge and expertise can be shared by local and foreign nomads through DE Rantau Hubs and a dynamic ecosystem, resulting in the development of a thriving local community and companies. By 2025, the scheme is projected to have contributed RM4.8 billion to the local economy. Additionally, in its initial phase, Penang; Langkawi, Kedah; and KL will be included among the centres for digital nomads. 
+DE Rantau is one of the first two Malaysia Digital Catalytic Programmes (Pemangkin) under the Malaysia Digital strategy. It is intended to generate significant economic spillover by providing equal access to digital resources, information and employment possibilities. 
+Malaysia Digital (2022) 
+
+The programme was introduced in July 2022 to hasten the development of the country’s digital economy. 
+
+Malaysia Digital is a national strategic initiative by the government to encourage and attract businesses, talents and investment while enabling Malaysian businesses and the rakyat to play a leading role in the global digital economy. 
+
+MSC Malaysia, a programme that helped turn Malaysia into a knowledge-based economy since 1996, has been replaced by Malaysia Digital. The new programme aims to improve the nation’s digital capabilities and advance the digital economy with a new and improved framework. 
+
+With the Cabinet’s approval, a Malaysia Digital Coordinating Committee (MD-CC) has been established to coordinate a more efficient and effective governance and operation of Malaysia Digital. The MD-CC is under the jurisdiction of the Ministry of Communications and Digital. According to the programme website, the government emphasises a whole-of-nation approach whilst emphasising the importance of the involvement from industry players, stakeholders and the community in the implementation of various national policies. 
+
+Digital Malaysia will offer non-location-based incentives to promote investments in the digital economy, in contrast to MSC Malaysia, which focuses on investments in the MSC. The projects being carried out right now include: 
+
+The DE Rantau plan, which aims to make the nation the go-to digital nomad hub. The plan will boost digital adoption while fostering national digital tourism and professional mobility.
+The Malaysia Digital Trade Programme, which aims to promote greater standardisation and harmonisation of regulatory methods to ease domestic and international digital trade

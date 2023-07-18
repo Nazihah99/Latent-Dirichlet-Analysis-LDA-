@@ -1,0 +1,31 @@
+Pahang university unveils prototype for self-driving bus
+The Smart Campus Autonomous Vehicle, or SCAV, is capable of transporting up to eight people in dedicated controlled environments.
+PETALING JAYA: Vehicles that drive themselves were once considered the stuff of science fiction. But thanks to groundbreaking updates in artificial intelligence and robotics, the world seems to be inching closer towards safe and efficient autonomous transportation every single day.
+
+According to consulting firm McKinsey, 12% of new passenger cars will be sold globally with advanced autonomous technology by 2030, rising to 37% in 2035. As such, research and development on advanced autonomous vehicles is being undertaken all around the world.Closer to home, Universiti Malaysia Pahang recently developed a self-driving bus that can carry up to eight people in dedicated controlled environments.
+Meet the Smart Campus Autonomous Vehicle, or SCAV for short. Energised through electric power and an electric drivetrain, it can travel at speeds of up to 60km/h.
+
+
+The SCAV is equipped with advanced sensors such as light detection and ranging, wheel speed detectors, steering, torque and current sensors, inertial measurement units, as well as processors.
+
+Speaking with FMT, mechatronic engineering programme head Muhammat Aizzat Zakaria explained that the SCAV is presently used for research and development by the university.
+“Its sensors synergise with our algorithms to assist us in our ultimate goal – a robust driverless vehicle,” he said. He and his team have been working on the SCAV since its early development in 2019.
+According to Aizzat, who is also a senior lecturer at the university, the vehicle is capable of classifying its surroundings: each time it is brought to a new location, it can determine what’s around it, store this information, and use it to accurately determine its position in future instances.
+
+Currently, however, the bus cannot autonomously navigate in dynamic or unknown environments, a limitation the team is working on.
+So, why did they embark on this project? Aizzat explained that the goal of the SCAV is to develop experts in the field of autonomous vehicles, given its potential to disrupt the larger global transportation industry.
+
+“In other words, we are nurturing future experts for Malaysia who will be in high demand,” he told FMT.“In addition, we conduct programmes for trainers and enforcement agencies to expose them to upcoming technology, enabling them to be well-prepared for such transportation advancements.”
+
+The SCAV, as it stands, is not intended for public use, the current version being a research prototype that allows the team to collect data and test algorithms. As such, trials are being conducted in strictly controlled conditions, with only authorised engineers permitted to operate it.
+Aizzat added that there are plans to upgrade various aspects of the SCAV, particularly the sensing system, and explore different algorithms and frameworks in the future.
+
+And while the SCAV is able to run unmanned during testing, it is mandatory to have at least two persons inside the vehicle for manual override or emergency stop activation, if required.
+For safety, it currently runs at a maximum of 25 km/h. “We exercise extreme caution to prevent accidents, prioritising safety above all else,” Aizzat stressed.
+With this in mind, legal measures and safety procedures have to be thoroughly considered before the public will be allowed to ride the bus, with professional monitoring and supervision, as well as thorough safety briefings, required to ensure users understand the system and its limitations.
+
+Compared with other autonomous vehicles by large multinational corporations, Aizzat acknowledged that the SCAV is not as advanced. This is because of budget limitations, with the vehicle’s complex system requiring substantial funds for further development.
+
+Still, he pointed out that R&D costs for the SCAV are significantly lower than that of other autonomous vehicles. Plus, most of its components are developed by local laboratories or homegrown industries.
+“This approach will eventually enhance our country’s technological capabilities, as the research, development, and product are being made in Malaysia. Our goal is to reach a level where we can compete with developed countries in this field,” Aizzat concluded.
+
